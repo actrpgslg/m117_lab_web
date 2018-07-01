@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="nav-open">
+<html lang="en" class>
  @include('partial.head')
 <body>
 
